@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 // 这一行是开源许可证声明，告诉别人代码是开源的
 
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.20;
 // 指定编译器版本，必须是 0.8.19 或更高，防止版本冲突
 
 // 引入 OpenZeppelin 的 NFT 标准库（不用自己造轮子，安全！）
